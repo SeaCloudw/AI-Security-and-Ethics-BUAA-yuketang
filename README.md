@@ -8,14 +8,16 @@
 ## 操作说明
 1. git clone https://github.com/SeaCloudw/AI-Security-and-Ethics-BUAA-yuketang.git  或者直接下载js和md文件
 2. 浏览器下载篡改猴插件，点击“管理面板”
-![](./fig/pic1.png)
+<p style="text-align: center;"> <img src=./fig/pic1.png alt="图" width="60%"> </p>
+
 3. 脚本拖入篡改猴
-![](./fig/pic2.png)
+<p style="text-align: center;"> <img src=./fig/pic2.png alt="图" width="60%"> </p>
 4. 登录雨课堂答题界面 (https://buaa.yuketang.cn/)
 5. 点击"导入md" ，选择仓库中的“人工智能安全与伦理-北航.md”
-![](./fig/pic3.png)
+<p style="text-align: center;"> <img src=./fig/pic3.png alt="图" width="60%"> </p>
 6. 建议点击“手动填写”先测试几道题目，(“手动填写”自动填入答案，但是需要手动提交)，然后可以尝试“自动答题”
+
 ## 感谢
-感谢 LazzyXP 的详尽笔记(https://github.com/LazzyXP/AI-Security-and-Ethics-BeiHang-University/tree/main)!
+感谢 @LazzyXP 的详尽笔记(https://github.com/LazzyXP/AI-Security-and-Ethics-BeiHang-University)!
 
 赞美伟大的互联网精神！
