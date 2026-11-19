@@ -15,6 +15,7 @@
 4. 登录雨课堂答题界面 (https://buaa.yuketang.cn/)
 5. 点击"导入md" ，选择仓库中的“人工智能安全与伦理-北航.md”
 <p style="text-align: center;"> <img src=./fig/pic3.png alt="图" width="60%"> </p>
+
 6. 建议点击“手动填写”先测试几道题目，(“手动填写”自动填入答案，但是需要手动提交)，然后可以尝试“自动答题”
 
 ## 感谢
